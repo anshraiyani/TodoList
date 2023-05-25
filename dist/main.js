@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){let t=[];t.push({projectTitle:"Default Project"}),console.log(t)}()})();
